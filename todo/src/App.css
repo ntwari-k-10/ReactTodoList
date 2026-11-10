@@ -1,4 +1,1 @@
-.firstHead{
-  font-size: 30px;
-  color: beige;
-}
+@import "tailwindcss"
